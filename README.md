@@ -1,6 +1,6 @@
 # party-parrot-replit
 
-A repl.it project for a terminal-based party parrot.
+A repl.it project for a terminal-based party parrot.  See: https://replit.com/@lsloan/PartyParrot
 
 ## What's here
 
